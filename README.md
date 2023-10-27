@@ -15,6 +15,8 @@
 
 Dive deep into the world of AI-assisted conversations like you’ve never seen before. At Chit Chat Charm, we offer not just text-based interactions but a full-fledged experience with visual and auditory immersion. Get ready to be charmed!
 
+Our MVP has been published using Unity webGL and it is [available here to play ](https://rezaamini.itch.io/)! 
+
 ---
 
 ## Features
